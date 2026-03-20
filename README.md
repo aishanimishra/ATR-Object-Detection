@@ -56,7 +56,7 @@ Frame-by-frame detection from video:
 #### **Comparison Mode**
 Compare results from different YOLOv11 models:
 
-![Comparison Mode](assets/Model_Comparision/comparison_result.png)
+![Comparison Mode](assets/Model_Comparision/comparision_result.png)
 
 
 ## Installation
