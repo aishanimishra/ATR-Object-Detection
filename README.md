@@ -35,6 +35,30 @@ A comprehensive Streamlit web application for Automated Target Recognition (ATR)
 - **Error Handling**: Graceful error management
 - **Tooltips**: Helpful explanations for technical terms
 
+
+### Processing Modes & Screenshots
+
+#### **Single Image Detection**
+Upload and detect objects in one image:
+
+![Single Image Mode](assets/Single_Image_Analysis/detection.png)
+
+#### **Batch Processing**
+Analyze multiple images at once:
+
+![Batch Processing](assets/Batch_Processing/processing_result.png)
+
+#### **Video Processing**
+Frame-by-frame detection from video:
+
+![Video Processing](assets/video_processing/video_analysis.png)
+
+#### **Comparison Mode**
+Compare results from different YOLOv11 models:
+
+![Comparison Mode](assets/Model_Comparision/comparison_result.png)
+
+
 ## Installation
 
 1. **Clone the repository**:
